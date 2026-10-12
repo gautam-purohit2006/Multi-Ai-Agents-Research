@@ -1,0 +1,28 @@
+langchain
+langchain-core
+python-dotenv
+
+# OpenAI
+langchain-openai
+
+# Mistral AI
+langchain-mistralai
+
+# Google Gemini
+langchain-google-genai
+
+# Anthropic Claude
+langchain-anthropic
+
+# Hugging Face
+langchain-huggingface
+
+# Community integrations
+langchain-community
+
+langchain-tavily
+
+
+tavily-python
+
+flask
