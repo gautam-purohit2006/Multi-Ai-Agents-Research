@@ -23,7 +23,7 @@ The project demonstrates how AI agents can collaborate to search for information
 ---
 ![alt text](image.png)
 
-
+<video controls src="Screen Recording 2026-10-12 161301.mp4" title="Title"></video>
 
 ## 🏗️ Project Architecture
 

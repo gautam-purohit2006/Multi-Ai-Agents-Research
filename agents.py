@@ -3,7 +3,7 @@ from tools import web_search, web_scraper
 from langchain_huggingface import HuggingFaceEndpoint,ChatHuggingFace
 
 llm = HuggingFaceEndpoint(
-    repo_id="openai/gpt-oss-120b",   
+    repo_id="openai/gpt-oss-safeguard-20b",   
     task="text-generation"
 )
 
