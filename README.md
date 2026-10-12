@@ -21,8 +21,6 @@ The project demonstrates how AI agents can collaborate to search for information
 - **Environment Configuration:** Manages API keys and configuration through environment variables.
 
 ---
-![alt text](image.png)
-
 <video controls src="Screen Recording 2026-10-12 161301.mp4" title="Title"></video>
 
 ## 🏗️ Project Architecture
