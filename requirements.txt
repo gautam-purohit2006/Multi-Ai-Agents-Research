@@ -28,3 +28,5 @@ tavily-python
 flask
 
 gunicorn
+
+beautifulsoup4
